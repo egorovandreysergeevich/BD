@@ -1,5 +1,0 @@
-**Визуализация датасета
-
-[Coursera Free Courses Dataset](https://www.kaggle.com/datasets/yasirabdaali/coursera-free-courses-dataset)
-
-На Дашборд (https://datalens.yandex.ru/szcir5nokwlqj-course-dashboard)
