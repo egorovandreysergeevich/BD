@@ -1,5 +1,0 @@
-**Визуализация датасета
-
-Файл с супергероями (https://storage.yandexcloud.net/datalens/SuperHeroes.csv)
-
-На Дашборд (https://datalens.yandex.ru/v0p7qtpsqqosm-superheroes-dashboard)
